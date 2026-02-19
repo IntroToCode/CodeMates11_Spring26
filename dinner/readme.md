@@ -36,6 +36,10 @@ A rich, flavorful one-skillet dish featuring pan-seared chicken breasts smothere
 3. Step three.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
+Drink:
+
+Diet Coke
+
 ### Notes:
 
 I think diet Coke would be a good pairing here
