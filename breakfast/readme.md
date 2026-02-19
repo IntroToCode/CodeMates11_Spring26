@@ -2,18 +2,18 @@
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+A hearty and comforting diner classic made from crispy diced potatoes, savory corned beef, and sweet caramelized onions. It is the perfect, stick-to-your-ribs breakfast to start a busy weekend, and a fantastic way to repurpose leftover holiday roasts.
 
 ## Stats
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
+| Prep Time | 15 minutes |
+| Cook Time | 25 minutes |
+| Total Time | 40 minutes |
 | Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+| Difficulty | Easy |
+| Tags | breakfast, hearty, leftovers, comfort food, gluten-free |
 
 <!-- Note the fields in the markdown table -->
 
