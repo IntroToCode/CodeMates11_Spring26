@@ -30,13 +30,14 @@ No salt
 
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
+1. Corn the beef
+2. Hash the potatos 
+3. Mix together
+4. Profit
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
-### Author(s):
+### Author(s): Camden Snowden 
