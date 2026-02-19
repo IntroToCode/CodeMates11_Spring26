@@ -12,7 +12,7 @@ This sandwich is a critical part of all healthy meals
 | Cook Time |  10 minutes |
 | Total Time | 15 minutes |
 | Servings | 4 |
-| Difficulty | Easy / Medium / Hard |
+| Difficulty | Easy |
 | Tags | e.g. vegetarian, quick, make-ahead, dessert |
 
 <!-- Note the fields in the markdown table -->
@@ -30,9 +30,8 @@ Bread (white, wheat, or sourdough)
 
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
+1. Open bread packet
+2. Make sandwhich
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
