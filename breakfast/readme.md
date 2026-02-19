@@ -18,7 +18,12 @@ A hearty and comforting diner classic made from crispy diced potatoes, savory co
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] add ingredient here
+	•	Corned beef (cooked and chopped or canned)
+	•	Potatoes (diced or shredded)
+	•	Onion (finely chopped)
+	•	Butter or oil
+	•	Salt
+	•	Black pepper
       
 <!-- List every ingredient -->
 
