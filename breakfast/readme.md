@@ -14,6 +14,7 @@ A hearty and comforting diner classic made from crispy diced potatoes, savory co
 | Servings | e.g. 4 |
 | Difficulty | Easy |
 | Tags | breakfast, hearty, leftovers, comfort food, gluten-free |
+| Spice level | 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️ |
 
 <!-- Note the fields in the markdown table -->
 
@@ -38,7 +39,7 @@ No salt
 
 ### Notes:
 
-Spice level 🌶️🌶️🌶️🌶️🌶️🌶️
+
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
