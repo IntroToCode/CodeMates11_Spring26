@@ -38,7 +38,7 @@ No salt
 
 ### Notes:
 
-Spice level 🌶️🌶️🌶️🌶️🌶️🌶️
+Spice level 🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️🌶️
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
