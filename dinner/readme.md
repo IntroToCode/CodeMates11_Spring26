@@ -11,7 +11,7 @@ A rich, flavorful one-skillet dish featuring pan-seared chicken breasts smothere
 | Prep Time | 10 minutes |
 | Cook Time | 20 minutes |
 | Total Time | 30 minutes |
-| Servings | 4 |
+| Servings | 12 |
 | Difficulty | Easy |
 | Tags | dinner, one-pan, chicken, creamy, quick, keto-friendly |
 
