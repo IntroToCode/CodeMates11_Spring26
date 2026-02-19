@@ -1,6 +1,6 @@
-# Replace with recipe name
+Egg Salad Sandwich
 
-## Description
+This sandwich is a critical part of all healthy meals
 
 <!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
 
@@ -8,17 +8,23 @@
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
+| Prep Time | 5 minutes |
+| Cook Time |  10 minutes |
+| Total Time | 15 minutes |
+| Servings | 4 |
 | Difficulty | Easy / Medium / Hard |
 | Tags | e.g. vegetarian, quick, make-ahead, dessert |
 
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] add ingredient here
+Hard-boiled eggs
+Mayonnaise
+Mustard
+Salt
+Black pepper
+Bread (white, wheat, or sourdough)
+
       
 <!-- List every ingredient -->
 
