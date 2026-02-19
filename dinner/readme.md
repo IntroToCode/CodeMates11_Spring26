@@ -18,7 +18,13 @@ A rich, flavorful one-skillet dish featuring pan-seared chicken breasts smothere
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] add ingredient here
+- [ ] chicken breast
+- [ ] garlic
+- [ ] heavy whipping cream
+- [ ] tomatoes
+- [ ] Parmesean
+- [ ] White Cooking Wine
+- [ ] Italian Seasoning
       
 <!-- List every ingredient -->
 
