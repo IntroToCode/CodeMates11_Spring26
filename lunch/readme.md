@@ -36,6 +36,7 @@ Bread (white, wheat, or sourdough)
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
+Don't leave the egg salad out for too long because it will start to stink. 
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
