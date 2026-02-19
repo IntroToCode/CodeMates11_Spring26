@@ -31,6 +31,7 @@
 
 ### Notes:
 
+Be hungry cuz dinner will be tasty
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s):
