@@ -12,7 +12,7 @@ This sandwich is a critical part of all healthy meals
 | Cook Time |  10 minutes |
 | Total Time | 15 minutes |
 | Servings | 4 |
-| Difficulty | Easy / Medium / Hard |
+| Difficulty | Easy |
 | Tags | e.g. vegetarian, quick, make-ahead, dessert |
 
 <!-- Note the fields in the markdown table -->
@@ -30,14 +30,16 @@ Bread (white, wheat, or sourdough)
 
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
+1. Open bread packet
+2. Make sandwhich
+3. Look at sandwich
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
+Don't leave the egg salad out for too long because it will start to stink. 
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s):
+Kevin, Camden, George, John
 
