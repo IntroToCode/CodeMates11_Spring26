@@ -1,8 +1,8 @@
 # Recipe Index
 
-- Breakfast: 
-- Lunch: 
-- Dinner: 
+- Breakfast: Corn Beef Hash
+- Lunch: Egg Salad Sandwich
+- Dinner: Creamy Tuscan Chicken
 
 _Notes_
 __
