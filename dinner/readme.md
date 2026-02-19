@@ -39,4 +39,4 @@ A rich, flavorful one-skillet dish featuring pan-seared chicken breasts smothere
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
-### Author(s):
+### Author(s): George, Camden, Kevin, John
