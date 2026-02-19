@@ -38,6 +38,8 @@ No salt
 
 ### Notes:
 
+Spice level 🌶️🌶️🌶️🌶️🌶️🌶️
+
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s): Camden Snowden 
