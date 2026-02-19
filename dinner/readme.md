@@ -14,6 +14,7 @@ A rich, flavorful one-skillet dish featuring pan-seared chicken breasts smothere
 | Servings | 4 |
 | Difficulty | Easy |
 | Tags | dinner, one-pan, chicken, creamy, quick, keto-friendly |
+| Spice level | 🌶️🌶️🌶️🌶️🌶️🌶️ |
 
 <!-- Note the fields in the markdown table -->
 
