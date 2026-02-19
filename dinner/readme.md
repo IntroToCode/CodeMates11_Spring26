@@ -37,6 +37,8 @@ A rich, flavorful one-skillet dish featuring pan-seared chicken breasts smothere
 
 ### Notes:
 
+I think diet Coke would be a good pairing here
+
 Be hungry cuz dinner will be tasty
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
