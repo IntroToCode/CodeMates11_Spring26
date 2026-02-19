@@ -35,6 +35,10 @@ A rich, flavorful one-skillet dish featuring pan-seared chicken breasts smothere
 3. Step three.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
+Drink:
+
+Lemonade
+
 ### Notes:
 
 Be hungry cuz dinner will be tasty
