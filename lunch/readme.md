@@ -32,7 +32,8 @@ Bread (white, wheat, or sourdough)
 
 1. Open bread packet
 2. Make sandwhich
-3. Look at sandwich
+3. Close bread packet
+4. Look at sandwich
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
