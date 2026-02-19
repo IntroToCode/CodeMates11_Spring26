@@ -37,7 +37,7 @@ A rich, flavorful one-skillet dish featuring pan-seared chicken breasts smothere
 
 Drink:
 
-Lemonade
+Diet Coke
 
 ### Notes:
 
