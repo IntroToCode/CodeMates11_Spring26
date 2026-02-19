@@ -22,8 +22,9 @@ Corned beef (cooked and chopped or canned)
 Potatoes (diced or shredded)
 Onion (finely chopped)
 Butter or oil
-Salt
 Black pepper
+No salt
+
       
 <!-- List every ingredient -->
 
